@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgahockey&theme=radical&hide=html,javascript,shell,css,jupyter-notebook,makefile&layout=compact)](https://github.com/rgahockey/github-readme-stats)
+![Russ's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgahockey&show_icons=true&theme=radical&hide_rank=true)
 <!--
+
 **rgahockey/rgahockey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--
 
 Here are some ideas to get you started:
 
